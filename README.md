@@ -47,7 +47,7 @@ python demo_test.py      # optional: test offline
 python run_pipeline.py   # run full pipeline
 ```
 
-Then connect Power BI Desktop to `clean_currency_rates`, or open `etl.pbix`. Schedule `run_pipeline.py` in Task Scheduler for daily automation.
+Then connected Power BI Desktop to `clean_currency_rates`. Scheduled `run_pipeline.py` in Task Scheduler for daily automation.
 
 ## Highlights
 
