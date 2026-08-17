@@ -2,8 +2,6 @@
 
 An end-to-end **ETL pipeline** that pulls daily currency rates from the **CBU public API**, cleans/enriches them with **Python (pandas)**, loads them into **SQL Server**, and visualizes them in **Power BI**.
 
-![Dashboard Preview](dashboard_preview.png)
-
 ## Architecture
 
 ```
